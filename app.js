@@ -3,3 +3,4 @@ console.log(idElement)
 //finding html element
 var tagElement = document.getElementsByTagName('div');
 console.log(tagElement)
+console.log(document.getElementsByClassName('use-class-method'))
